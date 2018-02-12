@@ -33,6 +33,10 @@ Installation:
 
 `cordova plugin add cordova-plugin-filepicker`
 
+Declaration:
+============
+
+declare var FilePicker: any;
 
 Usage:
 ======
